@@ -1,0 +1,43 @@
+{
+  "heroes": [
+    {
+      "id": "88cf34a3-8ede-4576-849a-34f916e94459",
+      "name": "Влад Тыкатель",
+      "description": "Точно не вампир",
+      "element": "fire"
+    },
+    {
+      "id": "542b409a-280f-4eca-81c9-ec95f1f07990",
+      "name": "Nikita Zakharov",
+      "description": "Кодит долго, но правильно",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    {
+      "id": 0,
+      "value": "all",
+      "title": "Все"
+    },
+    {
+      "id": 1,
+      "value": "fire",
+      "title": "Огонь"
+    },
+    {
+      "id": 2,
+      "value": "water",
+      "title": "Вода"
+    },
+    {
+      "id": 3,
+      "value": "wind",
+      "title": "Ветер"
+    },
+    {
+      "id": 4,
+      "value": "earth",
+      "title": "Земля"
+    }
+  ]
+}
